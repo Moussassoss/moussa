@@ -27,7 +27,7 @@
 
 | Frontend | Backend | AI/ML | DevOps | Tools |
 |---------|---------|-------|--------|-------|
-| React, React Native, HTML/CSS, Tailwind | Node.js, Express | TensorFlow, Teachable Machine, Python | Firebase, GitHub | Figma,  Canva |
+| React, React Native, TypeScript, HTML/CSS, Tailwind | Node.js, Express, Flask, Django | TensorFlow, Teachable Machine, Python | Firebase, GitHub | Figma,  Canva |
 
 ---
 
@@ -57,19 +57,16 @@ I’m on a mission to use software and AI to **empower local businesses**, **cre
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
 </div>
 
 ---
@@ -111,7 +108,7 @@ I specialize in using technology to **solve real-life challenges**, especially i
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://instagram.com/moussa_ssoss" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://dev.to/yourusername" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
