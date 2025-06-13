@@ -6,32 +6,20 @@
 
 ---
 
-## 🚀 About Me
+## 🏆 GitHub Activity
 
-I'm **Moussa SSØSS**, a passionate software developer and founder of **Twubake Digital Solutions** — an agency focused on building websites, software solutions, and AI-powered tools for African businesses and communities.
-
-I specialize in using technology to **solve real-life challenges**, especially in areas like agriculture, education, healthcare, and digital transformation in genereal. I'm also deeply curious about how **AI and machine learning** can improve lives and drive development.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Moussassoss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Moussassoss&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ---
 
-## 💡 What I Do
-
-- 🤖 **AI & Machine Learning**  
-  Integrating ML into apps:
-  - Image classification (e.g., plant disease detection)
-  - Environmental data analysis (e.g., crop recommendation using weather APIs)
-  - Custom ML model deployment
-
-- 🌐 **Digital Solutions & Tools**  
-  - E-Government platforms for citizen engagement  
-  - Agriculture advisory systems  
-  - E-commerce websites  
-  - Scholarship and diploma verification portals
-
-- 💼 **Project & Team Leadership**  
-  - Leading cross-functional teams (designers, researchers, devs)  
-  - Founder of Twubake Digital Solutions  
-  - Organizing and pitching innovative solutions in hackathons and demo days
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moussassoss/Moussassoss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moussassoss/Moussassoss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Moussassoss/Moussassoss/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -86,6 +74,36 @@ I’m on a mission to use software and AI to **empower local businesses**, **cre
 
 ---
 
+
+## 🚀 About Me
+
+I'm **Moussa SSØSS**, a passionate software developer and founder of **Twubake Digital Solutions** — an agency focused on building websites, software solutions, and AI-powered tools for African businesses and communities.
+
+I specialize in using technology to **solve real-life challenges**, especially in areas like agriculture, education, healthcare, and digital transformation in genereal. I'm also deeply curious about how **AI and machine learning** can improve lives and drive development.
+
+---
+
+## 💡 What I Do
+
+- 🤖 **AI & Machine Learning**  
+  Integrating ML into apps:
+  - Image classification (e.g., plant disease detection)
+  - Environmental data analysis (e.g., crop recommendation using weather APIs)
+  - Custom ML model deployment
+
+- 🌐 **Digital Solutions & Tools**  
+  - E-Government platforms for citizen engagement  
+  - Agriculture advisory systems  
+  - E-commerce websites  
+  - Scholarship and diploma verification portals
+
+- 💼 **Project & Team Leadership**  
+  - Leading cross-functional teams (designers, researchers, devs)  
+  - Founder of Twubake Digital Solutions  
+  - Organizing and pitching innovative solutions in hackathons and demo days
+
+---
+
 ## 📫 Let’s Connect
 
 <div align="center">
@@ -102,22 +120,7 @@ I’m on a mission to use software and AI to **empower local businesses**, **cre
 
 ---
 
-## 🏆 GitHub Activity
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Moussassoss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Moussassoss&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moussassoss/Moussassoss/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moussassoss/Moussassoss/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Moussassoss/Moussassoss/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 ⭐️ _Thanks for visiting my profile! Feel free to check out my repositories and connect with me._
 
