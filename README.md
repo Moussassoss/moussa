@@ -110,9 +110,6 @@ I specialize in using technology to **solve real-life challenges**, especially i
   <a href="https://instagram.com/moussa_ssoss" target="_blank">
     <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://dev.to/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
 </div>
 
 ---
