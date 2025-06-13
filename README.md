@@ -31,6 +31,27 @@ I specialize in using technology to **solve real-life challenges**, especially i
 
 ---
 
+## 💡 What I Do
+
+- 🤖 **AI & Machine Learning**  
+  Integrating ML into apps:
+  - Image classification (e.g., plant disease detection)
+  - Environmental data analysis (e.g., crop recommendation using weather APIs)
+  - Custom ML model deployment
+
+- 🌐 **Digital Solutions & Tools**  
+  - E-Government platforms for citizen engagement  
+  - Agriculture advisory systems  
+  - E-commerce websites  
+  - Scholarship and diploma verification portals
+
+- 💼 **Project & Team Leadership**  
+  - Leading cross-functional teams (designers, researchers, devs)  
+  - Founder of Twubake Digital Solutions  
+  - Organizing and pitching innovative solutions in hackathons and demo days
+
+---
+
 ## 🛠️ Tech Stack
 
 | Frontend | Backend | AI/ML | DevOps | Tools |
@@ -76,28 +97,6 @@ I’m on a mission to use software and AI to **empower local businesses**, **cre
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
 </div>
-
----
-
-
-## 💡 What I Do
-
-- 🤖 **AI & Machine Learning**  
-  Integrating ML into apps:
-  - Image classification (e.g., plant disease detection)
-  - Environmental data analysis (e.g., crop recommendation using weather APIs)
-  - Custom ML model deployment
-
-- 🌐 **Digital Solutions & Tools**  
-  - E-Government platforms for citizen engagement  
-  - Agriculture advisory systems  
-  - E-commerce websites  
-  - Scholarship and diploma verification portals
-
-- 💼 **Project & Team Leadership**  
-  - Leading cross-functional teams (designers, researchers, devs)  
-  - Founder of Twubake Digital Solutions  
-  - Organizing and pitching innovative solutions in hackathons and demo days
 
 ---
 
