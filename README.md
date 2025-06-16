@@ -6,20 +6,19 @@
 
 ---
 
-## 🏆 GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Moussassoss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Moussassoss&theme=dracula&column=4&row=1&margin-w=8&margin-h=8&trophy=trophy=commits,experience,repositories&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
----
-
 ## 🚀 About Me
 
 I'm **Moussa SSØSS**, a passionate software developer and founder of **Twubake Digital Solutions** — an agency focused on building websites, software solutions, and AI-powered tools for African businesses and communities.
 
 I specialize in using technology to **solve real-life challenges**, especially in areas like agriculture, education, healthcare, and digital transformation in genereal. I'm also deeply curious about how **AI and machine learning** can improve lives and drive development.
+
+---
+
+## 🏆 GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Moussassoss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ---
 
