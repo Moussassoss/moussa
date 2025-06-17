@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm **Moussa SSØSS**, a passionate software developer and founder of **Twubake Digital Solutions** — an agency focused on building websites, software solutions, and AI-powered tools for African businesses and communities.
+I'm **Moussa**, a passionate software developer and founder of **Twubake Digital Solutions** — an agency focused on building websites, software solutions, and AI-powered tools for African businesses and communities.
 
 I specialize in using technology to **solve real-life challenges**, especially in areas like agriculture, education, healthcare, and digital transformation in genereal. I'm also deeply curious about how **AI and machine learning** can improve lives and drive development.
 
